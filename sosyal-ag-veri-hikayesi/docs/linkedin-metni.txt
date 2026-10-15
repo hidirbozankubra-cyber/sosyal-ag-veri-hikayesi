@@ -1,0 +1,16 @@
+Türkiye'de sosyal ağ kullanımı 11 yılda ikiye katlandı: 2014'te %38,2, 2025'te %80,4.
+
+Kullanıcı arayüz tasarımı dersi için Eurostat verisiyle etkileşimli bir veri hikâyesi yaptım. Avrupa'daki 36 ülkeyi karşılaştırdım:
+
+• Türkiye 2017'de AB ortalamasını geçti ve bir daha altına inmedi
+• 2022'de tek yılda 10,8 puanlık sıçrama yaptı
+• 2025'te 36 ülke arasında 9. sırada, AB ortalamasının yaklaşık 13 puan üstünde
+
+Sayfada kaydırdıkça grafik değişiyor; sonunda kendi ülkenizi seçip Türkiye ile karşılaştırabilirsiniz.
+
+🔗 [site bağlantısı]
+💻 Analiz notebook'u ve kod: [GitHub bağlantısı]
+
+Araçlar: Python (pandas), HTML/CSS/JavaScript, SVG. Veri: Eurostat tin00127.
+
+#veriGörselleştirme #veriHikâyeciliği #kullanıcıArayüzü #python #eurostat
